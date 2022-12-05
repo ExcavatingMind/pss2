@@ -1,0 +1,33 @@
+---
+date: "2019-01-01"
+draft: false
+tags:
+- psychology
+- learning
+lastmod: "2019-03-17"
+status: evergreen
+summary: Understanding the role of a reference manager
+title: Why you need a reference manager
+---
+
+# What is a reference manager?
+
+A reference manager is typically a computer application that stores references and allows you to easily cite them in documents, e.g., word. 
+
+# What are the benefits?
+
+For psychology students, it is not uncommon to produce an assignment with more than 20 references. Without a reference manager, it would be difficult to keep track of each reference you have used and time-consuming to put each of these into a bibliography. A reference manager typically has a webclipper that allows you to save an article or webpage while you search the web. Once it is saved, the article can then be easily cited in a word processor, e.g., word. This saves you a tonne of time and allows you to easily access references. Below is an example of my reference manager. I have put each reference in a folder for each assignment. This allows me to have ease-of-access when organising and examining each reference. 
+
+![screenshot of reference manager](/post/reference_manager/refmanager_files/Screenshot (119).png){width=400px height=200px}
+
+In addition, most reference managers allow you to create notes of each saved article. Here you would be able to write some brief notes of each reference; for example, when I need to do something else but realise the article is important, I use a word system to organise importance (Gold Standard, Silver Standard, and Bronze Standard). When I go back to the folder, I can see which articles I need to prioritise regarding reading.
+
+# Which reference manager do I recommend?
+
+Hands down, I recommend Zotero. Zotero is not only open source (free) but it is constantly updated and improved. It has a webclipper, a pdf editor, and seamlessly integrates with word and libre office. Overall, Zotero has saved me hours of wasting my time formatting references by hand. 
+
+To have a further look go to https://www.zotero.org/
+
+# Key takeaways
+
+To save time and improve the efficiency and productivity of your academic workflow, you must use a reference manager. Overall, using Zotero will drastically improve your time-management; so, give it a go.

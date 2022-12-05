@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on 10194591</title>
+    <link>https://www.example.com/tags/learning/</link>
+    <description>Recent content in learning on 10194591</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>10194591 ©</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why you need a reference manager</title>
+      <link>https://www.example.com/garden/1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/garden/1/</guid>
+      <description>Understanding the role of a reference manager</description>
+    </item>
+    
+  </channel>
+</rss>

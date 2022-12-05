@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 10194591</title>
+    <link>https://www.example.com/projects/</link>
+    <description>Recent content in Projects on 10194591</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>10194591 ©</copyright>
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excavating Mind</title>
+      <link>https://www.example.com/projects/project1/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/projects/project1/</guid>
+      <description>A web hub of technical information for projects</description>
+    </item>
+    
+    <item>
+      <title>R and Stats</title>
+      <link>https://www.example.com/projects/project2/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/projects/project2/</guid>
+      <description>A for beginners by beginners guide to R and stats</description>
+    </item>
+    
+  </channel>
+</rss>
