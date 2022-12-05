@@ -1,0 +1,24 @@
+---
+date: "2022-12-05"
+draft: false
+links:
+  another_link:
+    href: '#'
+    icon: fab alt brands fa-github
+    text: Another github link
+    weight: 2
+  external_link:
+    href: '#'
+    icon: fas fa-external-link-alt
+    text: Some external link
+    weight: 1
+project_tags:
+- markdown
+status: evergreen
+summary: A web hub of technical information for projects
+title: Excavating Mind
+weight: 2
+---
+
+# What is it?
+
