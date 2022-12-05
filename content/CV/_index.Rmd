@@ -3,3 +3,4 @@ date: "2022-12-05"
 summary: Posts demonstrating my experience
 title: CV
 ---
+https://github.com/ExcavatingMind/cv_anonymised is the link to my cv

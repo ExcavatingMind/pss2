@@ -10,3 +10,4 @@ I am a current MRes psychology and data science student who aims to conduct a Ph
 In my spare time, I like to learn about psychology research, play chess, and converse with friends and family.
 
 My current goals are to achieve a distinction in my MRes, get onto a PhD studentship program, and get some teaching experience in higher education settings.
+
