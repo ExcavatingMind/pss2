@@ -38,6 +38,9 @@ menu:
     - name: CV
       url: /CV/
       weight: 5
+    - name: Links
+      url: /Links/
+      weight: 6
 taxonomies:
   garden_tags: garden_tags
   library_tags: library_tags
