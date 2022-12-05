@@ -8,19 +8,6 @@ params:
   googleAnalytics: ''
   initials: EM
   name: 10194591
-  social:
-    - icon: fab fa-twitter
-      link: '#'
-      name: Twitter
-    - icon: fab fa-github
-      link: '#'
-      name: Github
-    - icon: fab fa-medium-m
-      link: '#'
-      name: Medium
-    - icon: fab fa-linkedin-in
-      link: '#'
-      name: LinkedIn
 menu:
   main:
     - name: Digital Garden

@@ -1,0 +1,12 @@
+---
+date: "2022-12-05"
+garden_tags:
+- Experience
+status: evergreen
+summary: An up-to-date CV
+title: My CV
+---
+
+A link to my up-to-date CV
+
+
