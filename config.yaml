@@ -1,0 +1,59 @@
+baseURL: https://www.example.com
+languageCode: en-uk
+title: 10194591
+theme: hugo-digital-garden-theme
+copyright: 10194591 ©
+params:
+  description: Red panda living in the eastern Himalayas.
+  googleAnalytics: ''
+  initials: EM
+  name: 10194591
+  social:
+    - icon: fab fa-twitter
+      link: '#'
+      name: Twitter
+    - icon: fab fa-github
+      link: '#'
+      name: Github
+    - icon: fab fa-medium-m
+      link: '#'
+      name: Medium
+    - icon: fab fa-linkedin-in
+      link: '#'
+      name: LinkedIn
+menu:
+  main:
+    - name: Digital Garden
+      url: /garden/
+      weight: 1
+    - name: Projects
+      url: /projects/
+      weight: 2
+    - name: Lists
+      url: /lists/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+    - name: CV
+      url: /CV/
+      weight: 5
+taxonomies:
+  garden_tags: garden_tags
+  library_tags: library_tags
+  project_tags: project_tags
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: yes
+      footnote: yes
+      linkify: yes
+      strikethrough: yes
+      table: yes
+      taskList: yes
+      typographer: yes
+    renderer:
+      unsafe: yes
+  highlight:
+    style: monokailight
