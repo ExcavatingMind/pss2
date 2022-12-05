@@ -29,6 +29,7 @@ menu:
       url: /Links/
       weight: 6
 taxonomies:
+  tags: tags
   garden_tags: garden_tags
   library_tags: library_tags
   project_tags: project_tags

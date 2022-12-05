@@ -8,5 +8,3 @@ title: My CV
 ---
 
 A link to my up-to-date CV
-
-
